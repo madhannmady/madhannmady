@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/madhankumar karthikeyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhankumar karthikeyan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/madhankumar-karthikeyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhankumar karthikeyan" height="30" width="40" /></a>
 <a href="https://instagram.com/madhann_mady4567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhann_mady4567" height="30" width="40" /></a>
 <a href="https://dribbble.com/madhannmady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="madhannmady" height="30" width="40" /></a>
 </p>
