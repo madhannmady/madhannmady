@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently mastering **Figma, React**
 
-- 👨‍💻 Checkout my portfolio at [https://madhannmady.github.io/Responsive-Portfolio/](https://madhannmady.github.io/Responsive-Portfolio/)
+- 👨‍💻 Checkout my portfolio at [Portfolio](https://madhannmady.github.io/Responsive-Portfolio/)
 
 - 💬 Ask me about **UI/UX Designing**
 
 - 📫 Email id **madhankumark763@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zFCZVdiFAjKHOH0Rccrhk5EGrP0iooGG/view?usp=sharing](https://drive.google.com/file/d/1zFCZVdiFAjKHOH0Rccrhk5EGrP0iooGG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zFCZVdiFAjKHOH0Rccrhk5EGrP0iooGG/view?usp=sharing)
 
 - ⚡ Fun fact **My passion for UI/UX and frontend design grew from a childhood spent sketching and creating art.**
 
